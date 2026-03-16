@@ -41,7 +41,7 @@ This architecture helps maintain clean and organized code.
 * Monitor system activity
 * Full control over the platform
 
-## ✨ Features
+## Features
 * Digital Notice Board
 * Notes and Learning Resources
 * Assignment Management
@@ -76,7 +76,6 @@ This architecture helps maintain clean and organized code.
 * Git & GitHub
 
 ## System Requirements
-
 ### Hardware
 * Processor: Intel i3 / Ryzen 3 or higher
 * RAM: 4GB minimum (8GB recommended)
