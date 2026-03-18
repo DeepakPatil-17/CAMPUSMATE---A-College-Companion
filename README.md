@@ -130,10 +130,10 @@ http://127.0.0.1:5000
 
 ##  Future Improvements
 * Push notifications
-* Student discussion forum
+* Implementation in college level
 * Cloud storage integration
 * Real-time messaging
-* 
+  
 ## Team Members
 * Abhishek Salunke
 * Aftab Faniband
